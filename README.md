@@ -2,7 +2,7 @@ Shape used in instance:
 
 <img width="597" alt="shape" src="https://github.com/Geckuss/OCI/assets/58637152/52b3e9cc-d27b-48cf-8aca-c90ddd54f633">
 
-This processor uses ARM architechture, which provides better price/performance ratio, but causes multiple compability issues. Most game servers are made for x86, and need to be ported to ARM. Luckily, Java is very versatile and can be run on ARM out-of-the-box.
+This processor uses ARM architechture, which provides better price/performance ratio, but causes multiple compability issues. Running one cloud instance on standard AMD or Intel processor would cost about 100$/month, while this shape is completely free! Another instance would cost only under 2$/month, but 4 cores and 24gb of ram is able to withstand multiple servers simultaneously. However, most game servers are made for x86, and need to be ported to ARM. Luckily, Java is very versatile and can be run on ARM out-of-the-box.
 
 Boot volume used in instance:
 
