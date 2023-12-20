@@ -18,10 +18,12 @@ Multiple servers running simultaneously in screens:
 
 <img width="403" alt="screens" src="https://github.com/Geckuss/OCI/assets/58637152/1ba30ebc-7b62-49d5-82a0-4805acc9f5b3">
 
-Connections to game servers happen via DNS or public IP:
+Connections to game servers happen via DNS or public IP. Simultaneously running servers are separated with different ports:
 
 <img width="366" alt="status" src="https://github.com/Geckuss/OCI/assets/58637152/80078d87-7b8f-4168-bfe5-ea858cf8473e">
 <img width="453" alt="status2" src="https://github.com/Geckuss/OCI/assets/58637152/c81da033-06d1-42d7-8827-e2134538030d">
+
+Interactive 3D render from game world is also running in the server:
 
 <img width="960" alt="dynmap" src="https://github.com/Geckuss/OCI/assets/58637152/2e2615f6-8965-424a-a96e-4c7a5cf120d7">
 
