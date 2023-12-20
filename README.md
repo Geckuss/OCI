@@ -2,6 +2,8 @@ Shape used in instance:
 
 <img width="565" alt="shape" src="https://github.com/Geckuss/OCI/assets/58637152/3ec55660-470d-4bef-9deb-9c81505ea3c3">
 
+This processor uses ARM architechture, which provides better price/performance ratio, but causes multiple compability issues. Most game servers are made for x86, and need to be ported to ARM. Luckily, Java is very versatile and can be run on ARM out-of-the-box.
+
 Boot volume used in instance:
 
 <img width="714" alt="boot" src="https://github.com/Geckuss/OCI/assets/58637152/5c55bb31-cea9-4863-9693-fea744be093a">
