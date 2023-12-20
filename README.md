@@ -1,6 +1,6 @@
 Shape used in instance:
 
-<img width="565" alt="shape" src="https://github.com/Geckuss/OCI/assets/58637152/3ec55660-470d-4bef-9deb-9c81505ea3c3">
+<img width="597" alt="shape" src="https://github.com/Geckuss/OCI/assets/58637152/52b3e9cc-d27b-48cf-8aca-c90ddd54f633">
 
 This processor uses ARM architechture, which provides better price/performance ratio, but causes multiple compability issues. Most game servers are made for x86, and need to be ported to ARM. Luckily, Java is very versatile and can be run on ARM out-of-the-box.
 
