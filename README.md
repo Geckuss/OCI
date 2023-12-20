@@ -35,3 +35,5 @@ Server starts with:
 
 screen -dmS statech java -server -Xmx8G -jar fabric-server-mc.1.19.2-loader.0.14.22-launcher.0.11.2.jar nogui
 
+Command starts screen instance named statech, allocates 8gb of ram, and runs server.jar file using Java without gui
+
