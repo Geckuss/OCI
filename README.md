@@ -6,7 +6,7 @@ Shape used in instance:
 
 I am using Ubuntu server, as it is more widely used than Oracle Linux.
 
-This processor uses ARM architechture, which provides better price/performance ratio, but causes multiple compability issues. Running one cloud instance on standard AMD or Intel processor would cost about 100$/month, while this shape is completely free! Another instance would cost only under 2$/month, but 4 cores and 24gb of ram is able to withstand multiple servers simultaneously. However, most game servers are made for x86, and need to be ported to ARM. Luckily, Java is very versatile and can be run on ARM out-of-the-box.
+This processor uses ARM architechture, which provides better price/performance ratio, but causes multiple compatibility issues. Running one cloud instance on standard AMD or Intel processor would cost about 100$/month, while this shape is completely free! Another instance would cost only under 2$/month, but 4 cores and 24gb of ram is able to withstand multiple servers simultaneously. However, most game servers are made for x86, and need to be ported to ARM. Luckily, Java is very versatile and can be run on ARM out-of-the-box.
 
 Boot volume used in instance (200gb is the limit for free tier):
 
